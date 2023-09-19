@@ -1,0 +1,30 @@
+Fire Department,442-2222,160
+Directory Assistance,114,
+City disasters coordinating center,442-1900,
+Emergency Medical Services,442-1911,
+City Mayor's Office,442-3939,442-8920
+Baguio Police Station,166,Police And Law Enforcement Agencies
+Anti-Crime Hotline,163,Police And Law Enforcement Agencies
+PNP-CMP Dangwa,442-5645,Police And Law Enforcement Agencies
+CIS,442-8781,Police And Law Enforcement Agencies
+NARCOM,443-4720,Police And Law Enforcement Agencies
+NBI,442-7203,442-7204
+Highway Patrol,442-4429,Police And Law Enforcement Agencies
+Baguio General Hospital,442-4216,169
+BGHMC E.R.,442-3765,Hospital and Health Center
+BGH STOP DEATH program,443-5678,Hospital and Health Center
+SLU Sacred Heart Hospital,442-5701,442-5702
+Baguio Medical Center,442-3338,442-2626
+Sto. Nino Hospital,442-7769,443-7770
+Fil-Chinese Hospital,442-3245,Hospital and Health Center
+Baguio Health Deparment,442-3765,Hospital and Health Center
+PAGASA,442-3464,443-5515
+Child youth and women's relations,443-8980,Information and Assistance Centers
+AIDS-STD-Hotline,442-6018,Information and Assistance Centers
+KIDS(Child Abuse Hotline) CFS-Baguio,445-3800,Information and Assistance Centers
+Pregnancy and Crisis Center,442-8193,Information and Assistance Centers
+BENECO,442-2295,Information and Assistance Centers
+Baguio Water District,442-6539,Information and Assistance Centers
+Drug Abuse Hotline,442-5029,Information and Assistance Centers
+Department of Tourism,442-8848,Information and Assistance Centers
+Ods,personal,12315
